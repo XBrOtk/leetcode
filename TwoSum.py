@@ -16,5 +16,6 @@ class Solution:
 if __name__ == '__main__':
     x = Solution()
     print(x.twoSum([3,3],6))
+    print('test')
 
 
